@@ -685,6 +685,9 @@ ShowScrollBar
 ShowStartGlass
 ShowWindow
 ShowWindowAsync
+ShutdownBlockReasonCreate
+ShutdownBlockReasonDestroy
+ShutdownBlockReasonQuery
 SoftModalMessageBox
 SubtractRect
 SwapMouseButton
